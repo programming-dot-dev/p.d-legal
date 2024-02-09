@@ -6,7 +6,7 @@ The following are not allowed in any of our communities
 - **Doxing:** Do not reveal private information about other people without their explicit permission.
 - **Ad Hominem:** When arguing with someone do not attack the person themselves, instead target the argument they are making.
 - **Impersonation:** Do not impersonate other people regardless of whether they are in the community or not.
-- **Unmarked NSFW:** Do not post NSFW content without labelling it as such.
+- **Unmarked NSFW:** Do not post NSFW content without labelling it as such. If the software does not allow you to label it, do not post the content.
 - **Hate Speech:** Do not make remarks directed at sex, gender, ethnicity, orientation, disabilities, etc.
 
 ## Reporting
