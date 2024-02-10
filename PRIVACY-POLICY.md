@@ -1,8 +1,8 @@
 Last Updated  
-On: February 3rd, 2024  
-By: Ategon
+On: February 10, 2024  
+By: recursive_recursion
 
-All Authors: recursive_recursion, Ategon
+All Authors: Ategon, recursive_recursion
 
 # Privacy Policy
 
