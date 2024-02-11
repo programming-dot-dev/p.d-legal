@@ -41,7 +41,7 @@ Any information we collect from you may be used in the following ways:
 
 **IPs and Other Metadata:**
 - When you log in, we may record the IP address you logged in from, the time and date you logged in at, as well as the name of your browser application. We also have server logs which include the IP address of every request to our server.
-- Image embeded metadata [(Exif data)](https://en.wikipedia.org/wiki/Exif), on images hosted on our services are scrubbed/erased by default due to the use of [pict-rs as our image hosting service](https://git.asonix.dog/asonix/pict-rs/src/branch/main).
+- Image embedded metadata [(Exif data)](https://en.wikipedia.org/wiki/Exif), on images hosted on our services are scrubbed/erased by default due to the use of [pict-rs as our image hosting service](https://git.asonix.dog/asonix/pict-rs/src/branch/main).
 - Your IP address and email remains private to our services. However, due to the nature of federated services, all of your engagement (profile, posts, comments, messages, votes, etc.) on our services should be considered public and you are responsible for taking appropriate precautions in how you interact with our services. It is highly recommended that you do not share any publicly identifying information on our sites, products, or services.
 
 # How do we protect your information?
@@ -55,8 +55,8 @@ We will make a good faith effort to:
 You may irreversibly delete your account at any time. However, this does not guarantee all instances will be notified or respect the deletion of your public data.
 
 # Do we use cookies?
-We use cookies for specific functionalities, which includes cloudflare clearance and JWT (JSON Web Token) authentication purposes.
-- Cloudflare clearance: Cookies provided by cloudflare to store the proof of passing a cloudflare challenge.
+We use cookies for specific functionalities, which includes Cloudflare clearance and JWT (JSON Web Token) authentication purposes.
+- Cloudflare clearance: Cookies provided by Cloudflare to store the proof of passing a Cloudflare challenge.
 - JWT: A token to allow you to access and interact with our services after logging in.
 
 These cookies do not store personally identifiable information and are necessary for the proper functioning of our services. By continuing to use our services, you consent to the use of these essential cookies.
@@ -66,7 +66,7 @@ Please note that you can manage or disable cookies through your browser settings
 # Do we disclose any information to outside parties?
 We do not sell, trade, or transfer your personal information to outside parties. This does not include trusted third parties who assist us in operating our services, so long as those parties agree to keep this information confidential.
 
-Your public content may be downloaded by other servers using the activitypub protocol, as well as direct messages to the servers of the recipients.
+Your public content may be downloaded by other servers using the [ActivityPub protocol](https://en.wikipedia.org/wiki/ActivityPub), as well as direct messages to the servers of the recipients.
 
 When you log in to your account on a service not provided by us, it may access your public information as well as password when logging in.
 
