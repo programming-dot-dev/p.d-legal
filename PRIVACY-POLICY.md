@@ -41,7 +41,7 @@ Any information we collect from you may be used in the following ways:
 
 **IPs and Other Metadata:**
 - When you log in, we may record the IP address you logged in from, the time and date you logged in at, as well as the name of your browser application. We also have server logs which include the IP address of every request to our server.
-- Iamge embeded metadata [(Exif data)](https://en.wikipedia.org/wiki/Exif), on images hosted on our services are scrubbed/erased by default due to the use of [pict-rs as our image hosting service](https://git.asonix.dog/asonix/pict-rs/src/branch/main).
+- Image embeded metadata [(Exif data)](https://en.wikipedia.org/wiki/Exif), on images hosted on our services are scrubbed/erased by default due to the use of [pict-rs as our image hosting service](https://git.asonix.dog/asonix/pict-rs/src/branch/main).
 - Your IP address and email remains private to our services. However, due to the nature of federated services, all of your engagement (profile, posts, comments, messages, votes, etc.) on our services should be considered public and you are responsible for taking appropriate precautions in how you interact with our services. It is highly recommended that you do not share any publicly identifying information on our sites, products, or services.
 
 # How do we protect your information?
