@@ -30,7 +30,7 @@ Any information we collect from you may be used in the following ways:
   - Currently (as of February 10, 2024), all of the optional fields are always listed publicly; your password and email is kept private.
 
 **Service Provided User Actions:**
-- On any of our services, when performing an action such as commenting the date and time (during when the action is taken) is recorded in addition to saving the content and any media attachments (pictures and/or videos) alongside the performed action. All of this information is publicly available due to the nature of federation which uses the [ActivityPub protocol](https://en.wikipedia.org/wiki/ActivityPub). <font color= "orange">The actions made by users of our services is duplicated and stored on externel communities/instances that are federated with our services. (this sentence can probably be revised)</font>
+- On any of our services, when performing an action such as commenting the date and time (during when the action is taken) is recorded in addition to saving the content and any media attachments (pictures and/or videos) alongside the performed action. All of this information is publicly available due to the nature of federation which uses the [ActivityPub protocol](https://en.wikipedia.org/wiki/ActivityPub). <font color= "orange">The actions made by users of our services is duplicated and stored on external communities/instances that are federated with our services. (this sentence can probably be revised)</font>
 - Actions in the context of our provided services and Privacy Policy may include:
   1. Creating/editing a post or comment.
   2. Voting/reacting on a post or comment.
@@ -66,7 +66,7 @@ Please note that you can manage or disable cookies through your browser settings
 # Do we disclose any information to outside parties?
 We do not sell, trade, or transfer your personal information to outside parties. This does not include trusted third parties who assist us in operating our services, so long as those parties agree to keep this information confidential.
 
-Your public content may be downloaded by other servers using the activitypub protocol, as well as direct messages to the servers of the receipients.
+Your public content may be downloaded by other servers using the activitypub protocol, as well as direct messages to the servers of the recipients.
 
 When you log in to your account on a service not provided by us, it may access your public information as well as password when logging in.
 
