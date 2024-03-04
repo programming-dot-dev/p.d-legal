@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://legal.programming.dev/
 title: P.D Legal
 theme: hugo-book
 
@@ -14,16 +14,16 @@ menu:
   # before: []
   after:
     - name: "Source"
-      url: "https://github.com/programming-dot-dev/p.d-legal"
+      url: "https://git.programming.dev/Programming.Dev/p.d-legal"
       weight: 10
     - name: "Links"
       url: "https://me.programming.dev"
       weight: 100
 
 params:
-  BookTheme: 'auto'
+  BookTheme: "auto"
   BookToC: true
-  BookLogo: 'logo.png'
-  BookFavicon: 'logo.png'
+  BookLogo: "logo.png"
+  BookFavicon: "logo.png"
   BookMenuBundle: /menu
-  BookRepo: https://github.com/programming-dot-dev/p.d-legal
+  BookRepo: https://git.programming.dev/Programming.Dev/p.d-legal
