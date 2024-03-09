@@ -17,6 +17,7 @@ Defederating from a instance:
 - Instances that have no active administrators may be defederated.
 - Instances that have a lack of security that is not addressed and that puts our users at risk may be defederated. This includes things like having a sign up process that does not stop bots from mass creating accounts.
 - Instances that have defederated from us may be defederated to prevent one way conversations where we get content from the other instance but users commenting on that content get no response.
+- Instances that have been voted on by our community to be defederated may be defederated
 
 ## Defederation Appeals
 
