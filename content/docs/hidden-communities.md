@@ -1,15 +1,15 @@
 # Hidden Communities
 
-Programming.dev will hide political communities, NSFW/pornographic communities and communities that have a majority of its content produced by bots. The effect of hiding communities is that hidden communities will not show up on c/all or in the community search results, the latter might change in the future, see [#2943](https://github.com/LemmyNet/lemmy-ui/issues/2943).
+Programming.dev will hide political communities, NSFW/pornographic communities and communities that have a majority of their content produced by bots. While a community is hidden, it and its posts and comments will not show up in post feeds or in the search results unless you have explicitly subscribed to it. the latter might change in the future; see [#2943](https://github.com/LemmyNet/lemmy-ui/issues/2943).
 
-Users can subscribe to a hidden community to remove the hidden effect status of a community, however it can be difficult for a user to find out which communities are due to them not being searchable. This page aim to provide more transparency to our user of which communities are hidden, and also give them a direct link to the community so that they can subscribe to the content if they wish. Some communities may be gone due to instances being shut down or by the local instance removing them, we do not update the list to reflect this. 
+Users can subscribe to a hidden community to remove the hidden effect status of a community, however it can be difficult for a user to find out which communities are due to them not being searchable. This page aims to provide more transparency to our users of which communities are hidden, and also give them a direct link to the community so that they can subscribe to the content if they wish. Some communities may be gone due to instances being shut down or by the local instance removing them; we do not update the list to reflect this. 
 
-**Programming.dev neither endorse nor condemn the content of these communities. Hidden communities are generally hosted on federated instances as programming.dev focuses strictly on programming-related content.** 
+**Programming.dev neither endorses nor condemns the content of these communities. Hidden communities are generally hosted on federated instances as programming.dev focuses primarily on programming-related content.** 
 
 
 ## Hidden Communities
 
-### Other
+### Test Communities
 * programming.dev
   * [test@programming.dev](https://programming.dev/c/test@programming.dev)
 * lemmy.ml
