@@ -1,6 +1,6 @@
 # Hidden Communities
 
-This document details hidden communities aka communities that are marked to now show up by default on the site.
+This document details hidden communities aka communities that are marked to not show up by default on the site.
 
 Programming.dev will hide political communities, NSFW/pornographic communities and communities that have a majority of their content produced by bots. While a community is hidden, it and its posts and comments will not show up in post feeds or in the search results unless you have explicitly subscribed to it. Communities themselves currently do not show up in community search results, this may change in the future; see [#2943](https://github.com/LemmyNet/lemmy-ui/issues/2943).
 
