@@ -10,8 +10,8 @@ headless: true
 - [🍪 Cookie Policy]({{< relref "/docs/cookie-policy" >}})
 - [🌍 Defederation Policy]({{< relref "/docs/defederation-policy" >}})
 - [❤️ Donation Policy]({{< relref "/docs/donation-policy" >}})
+- [🕵️ Hidden Communities ]({{< relref "/docs/hidden-communities" >}})
 - [🏡 Moderator Guidelines]({{< relref "/docs/moderator-guidelines" >}})
 - [🔒 Privacy Policy]({{< relref "/docs/privacy-policy" >}})
 - [📜 Terms of Service]({{< relref "/docs/terms-of-service" >}})
-- [🕵️ Hidden Communities ]({{< relref "/docs/hidden-communities" >}})
   <br/>
