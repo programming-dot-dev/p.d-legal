@@ -41,17 +41,9 @@ Some communities within one of our sites may have additional or more specific gu
 
 If you use any form of automation on your accounts you must abide by our [Automation Guidelines](https://legal.programming.dev/docs/automation-guidelines).
 
-## Community Guidelines
-
-If you manage a community on our sites you must abide by our [Community Guidelines](https://legal.programming.dev/docs/community-guidelines).
-
 ## Moderator Guidelines
 
 If you are a moderator for our sites or for a community on our sites you must abide by our [Moderator Guidelines](https://legal.programming.dev/docs/moderator-guidelines).
-
-## Admin Guidelines
-
-If you are an admin for our sites you must abide by our [Admin Guidelines](https://legal.programming.dev/docs/admin-guidelines).
 
 ## Reporting
 
