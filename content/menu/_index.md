@@ -13,4 +13,5 @@ headless: true
 - [🏡 Moderator Guidelines]({{< relref "/docs/moderator-guidelines" >}})
 - [🔒 Privacy Policy]({{< relref "/docs/privacy-policy" >}})
 - [📜 Terms of Service]({{< relref "/docs/terms-of-service" >}})
+- [🕵️ Hidden Communities ]({{< relref "/docs/hidden-communities" >}})
   <br/>
