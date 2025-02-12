@@ -35,7 +35,6 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [canadapolitics@lemmy.ca](https://programming.dev/c/canadapolitics@lemmy.ca)
 - lemmy.ml
   - [intelligence@lemmy.ml](https://programming.dev/c/intelligence@lemmy.ml)
-  - [manga@lemmy.ml](https://programming.dev/c/manga@lemmy.ml)
   - [politicalhumor@lemmy.ml](https://programming.dev/c/politicalhumor@lemmy.ml)
   - [usa@lemmy.ml](https://programming.dev/c/usa@lemmy.ml)
   - [worldnews@lemmy.ml](https://programming.dev/c/worldnews@lemmy.ml)
@@ -239,6 +238,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [hackernews@lemmy.smeargle.fans](https://programming.dev/c/hackernews@lemmy.smeargle.fans)
   - [necoarc@lemmy.smeargle.fans](https://programming.dev/c/necoarc@lemmy.smeargle.fans)
   - [okbuddyretard@lemmy.smeargle.fans](https://programming.dev/c/okbuddyretard@lemmy.smeargle.fans)
+- lemmy.ml
+  - [manga@lemmy.ml](https://programming.dev/c/manga@lemmy.ml)
 - lemy.nl
   - [economie@lemy.nl](https://programming.dev/c/economie@lemy.nl)
   - [films@lemy.nl](https://programming.dev/c/films@lemy.nl)
