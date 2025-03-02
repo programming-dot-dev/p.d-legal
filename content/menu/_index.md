@@ -6,6 +6,7 @@ headless: true
 
 - [🤖 Automation Guidelines]({{< relref "/docs/automation-guidelines" >}})
 - [🤝 Code of Conduct]({{< relref "/docs/code-of-conduct" >}})
+- [🏘️ Community Guidelines]({{< relref "/docs/community-guidelines" >}})
 - [🪲 Contributor Guidelines]({{< relref "/docs/contributor-guidelines" >}})
 - [🍪 Cookie Policy]({{< relref "/docs/cookie-policy" >}})
 - [🌍 Defederation Policy]({{< relref "/docs/defederation-policy" >}})
