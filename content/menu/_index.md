@@ -4,6 +4,7 @@ headless: true
 
 **Documents**
 
+- [Administration Guidelines and User Information]({{< relref "/docs/administration-guidelines" >}})
 - [🤖 Automation Guidelines]({{< relref "/docs/automation-guidelines" >}})
 - [🤝 Code of Conduct]({{< relref "/docs/code-of-conduct" >}})
 - [🏘️ Community Guidelines]({{< relref "/docs/community-guidelines" >}})
