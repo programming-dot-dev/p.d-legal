@@ -1,7 +1,3 @@
----
-headless: true
----
-
 **Documents**
 
 - [Administration Guidelines and User Information]({{< relref "/docs/administration-guidelines" >}})
