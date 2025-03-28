@@ -19,6 +19,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 
 ### Political Communities
 
+- 5050.chat
+  - [Mirror@50501.chat](https://programming.dev/c/Mirror@50501.chat) 
 - beehaw.org
   - [news@beehaw.org](https://programming.dev/c/news@beehaw.org)
   - [politics@beehaw.org](https://programming.dev/c/politics@beehaw.org)
