@@ -1,4 +1,4 @@
-# Administration Guidelines and User Information
+# ⚙️ Administration Guidelines and User Information
 
 This document details how the community and programming.dev's administration should interact. The first part of the document serves to inform our users on how they can contact the admin team if they want to file a complaint or have questions that might not be appropriate to ask on [meta@programming.dev](https://programming.dev/c/meta). The second part of the document is meant to serve as rules/guidelines for the administration team to follow when interacting with the community.
 
@@ -20,7 +20,7 @@ Please prioritise contacting a community team member over non community team mem
 
 ## Definitions:
 
-- **Strike**: a strike is a part of if the incremental [admin response system](#the-3-4-strike-system), where for each strike a user accumulate a stricter response is warranted, accumulating to a strike 4 response, which would be a permanent ban.
+- **Strike**: a strike is a part of the incremental [admin response system](#the-3-4-strike-system), where for each strike a user accumulate a stricter response is warranted, accumulating to a strike 4 response, which would be a permanent ban.
 
 - **Severity**: severity describes the minimum strike that will be applied to the offending content. E.g. content of severity 2 will be given a minimum of strike 2, however if they are already at strike 2, the strike would increment to strike 3, etc…
 
@@ -97,7 +97,7 @@ If a user is found to be in violation of the [Code of Conduct](code-of-conduct.m
 Using whatever log system is currently in place, after an action is taken against a user, the administrator should log the following information:
 
 - Add a new entry or update the entry with the following format as title: username@instance
-- Provide a date and time of the action taken, and when the offending content was made. Format in ISO 8601.
+- Provide a date and time of the action taken, and when the offending content was made. Format in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html).
 - Provide a bullet point of the strike given.
 - Provide a bullet point for the reason the action was taken. This could be reference to specific rules that are broken, or a more general description of *why* the action was taken. For cases where interpretation may come at play, the administrator should explain their interpretation alongside their reason for taking action.
 - Provide a copy of the offending content. This is to ensure a history of the offending content is recorded and easy to look up for future reference. Simply providing a link to the offending content is not acceptable as the content may be edited or removed, but it may be provided alongside the copy to provide further context. Content that is not text-based such as media files, or content that contains sensitive information such as doxxing, may instead be given a description of the content.
