@@ -74,15 +74,15 @@ When acting on behalf of moderators, administrators can only utilise the same to
 The strike system is incremental, a user on strike 2 will always lead to a minimum of a strike 3 regardless of the severity on their next violation. A user without any strikes may be given a strike of any severity, but it's *strongly* recommended that users with zero strikes are never directly given a strike 3 (temporary ban). Offences that don't warrant a direct permanent ban should at a minimum be given a warning before any temporary bans are issued. Users that are given a strike may be put under supervision to make sure they don't repeat an offence, this supervision may only last for as long as the user has a strike.  
 A strike is decremented by 1 after 365 days without any further violations, for this specific purpose someone on strike 3.5 is treated as if they are on strike 3.
 
-1\. For mild violations, a warning/reminder must be issued to the user in question and logged in the admin log.
+1\. For mild violations, a warning/reminder must be issued to the user in question.
 
 2\. For a repeated or more severe violation, a warning must be issued, notifying that a repeated offence will result in a temporary site ban.
 
-3\. After receiving a warning notifying the user of a potential ban, a repeated offence should result in a temporary site ban. Ban length is recommended to be 4-14 days depending on the severity of the violations. E.g. 3 severity 1 violations may warrant a shorter ban that 2 severity 2 violations.
+3\. After receiving a warning notifying the user of a potential ban, a repeated offence should result in a temporary site ban. Ban length is recommended to be 4-14 days depending on the severity of the violations. E.g. 3 severity 1 violations may warrant a shorter ban that 2 severity 2 violations. The user should be notified of the temporary ban and a warning that a repeated offence may result in a permanent ban.
   
 3.5. A user that has already received a temporary ban once, may be given an additional temporary ban, and a final warning before incrementing to strike 4. Ban length is recommended to be 14-30 days depending on the severity of the violations.
 
-4\. If the user repeats a violation after a temporary ban, a permanent ban may be issued.
+4\. If the user repeats a violation after a temporary ban, a permanent ban may be issued. No message is required to be sent to user.
 
 ### Enforcing Programming.dev's Code of Conduct
 If a user is found to be in violation of the [Code of Conduct](https://legal.programming.dev/docs/code-of-conduct), the following steps should be taken:
@@ -94,7 +94,8 @@ If a user is found to be in violation of the [Code of Conduct](https://legal.pro
 
 
 ### Logging Admin Actions
-Using whatever log system is currently in place, after an action is taken against a user, the administrator should log the following information:
+After an action is taken against a user, the administrator should log the action in the admin log. Exceptions are made for direct permanent ban such as when banning spam bots, this is to avoid cluttering the admin log with unnecessary entries.
+The administrator should log the following information:
 
 - Add a new entry or update the entry with the following format as title: username@instance
 - Provide a date and time of the action taken, and when the offending content was made. Format in [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html).
