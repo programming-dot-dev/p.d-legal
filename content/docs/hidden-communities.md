@@ -366,6 +366,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [okbuddyretard@lemmy.smeargle.fans](https://programming.dev/c/okbuddyretard@lemmy.smeargle.fans)
 - lemmy.ml
   - [manga@lemmy.ml](https://programming.dev/c/manga@lemmy.ml)
+- lemmy.zip
+  - [gaming@lemmy.zip](https://programming.dev/c/gaming@lemmy.zip)
 - lemy.nl
   - [economie@lemy.nl](https://programming.dev/c/economie@lemy.nl)
   - [films@lemy.nl](https://programming.dev/c/films@lemy.nl)
