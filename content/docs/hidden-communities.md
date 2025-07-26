@@ -173,6 +173,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [gonewild@lemmynsfw.com](https://programming.dev/c/gonewild@lemmynsfw.com)
   - [gonewildcd@lemmynsfw.com](https://programming.dev/c/gonewildcd@lemmynsfw.com)
   - [gonewildstoriesgay@lemmynsfw.com](https://programming.dev/c/gonewildstoriesgay@lemmynsfw.com)
+  - [gravure@lemmynsfw.com](https://programming.dev/c/gravure@lemmynsfw.com)
   - [hairy_men@lemmynsfw.com](https://programming.dev/c/hairy_men@lemmynsfw.com)
   - [hausofkillahxrs@lemmynsfw.com](https://programming.dev/c/hausofkillahxrs@lemmynsfw.com)
   - [hentai@lemmynsfw.com](https://programming.dev/c/hentai@lemmynsfw.com)
