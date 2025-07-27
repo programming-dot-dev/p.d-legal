@@ -388,6 +388,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [homelab@selfhosted.forum](https://programming.dev/c/homelab@selfhosted.forum)
   - [homenetworking@selfhosted.forum](https://programming.dev/c/homenetworking@selfhosted.forum)
   - [main@selfhosted.forum](https://programming.dev/c/main@selfhosted.forum)
+- sh.itjust.works
+  - [asslips@sh.itjust.works](https://programming.dev/c/asslips@sh.itjust.works)
 - ttrpg.network
   - [daily_rpg_blog@ttrpg.network](https://programming.dev/c/daily_rpg_blog@ttrpg.network)
 - zerobytes.monster
