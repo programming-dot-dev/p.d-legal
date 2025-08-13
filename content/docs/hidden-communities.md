@@ -166,12 +166,14 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [futanari@lemmynsfw.com](https://programming.dev/c/futanari@lemmynsfw.com)
   - [gay@lemmynsfw.com](https://programming.dev/c/gay@lemmynsfw.com)
   - [girls_in_diapers@lemmynsfw.com](https://programming.dev/c/girls_in_diapers@lemmynsfw.com)
+  - [girlsdrinkingcoffee@lemmynsfw.com](https://programming.dev/c/girlsdrinkingcoffee@lemmynsfw.com)
   - [girlshowering@lemmynsfw.com](https://programming.dev/c/girlshowering@lemmynsfw.com)
   - [girlsmasturbating@lemmynsfw.com](https://programming.dev/c/girlsmasturbating@lemmynsfw.com)
   - [godpussy@lemmynsfw.com](https://programming.dev/c/godpussy@lemmynsfw.com)
   - [gonewild@lemmynsfw.com](https://programming.dev/c/gonewild@lemmynsfw.com)
   - [gonewildcd@lemmynsfw.com](https://programming.dev/c/gonewildcd@lemmynsfw.com)
   - [gonewildstoriesgay@lemmynsfw.com](https://programming.dev/c/gonewildstoriesgay@lemmynsfw.com)
+  - [gravure@lemmynsfw.com](https://programming.dev/c/gravure@lemmynsfw.com)
   - [hairy_men@lemmynsfw.com](https://programming.dev/c/hairy_men@lemmynsfw.com)
   - [hausofkillahxrs@lemmynsfw.com](https://programming.dev/c/hausofkillahxrs@lemmynsfw.com)
   - [hentai@lemmynsfw.com](https://programming.dev/c/hentai@lemmynsfw.com)
@@ -386,6 +388,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [homelab@selfhosted.forum](https://programming.dev/c/homelab@selfhosted.forum)
   - [homenetworking@selfhosted.forum](https://programming.dev/c/homenetworking@selfhosted.forum)
   - [main@selfhosted.forum](https://programming.dev/c/main@selfhosted.forum)
+- sh.itjust.works
+  - [asslips@sh.itjust.works](https://programming.dev/c/asslips@sh.itjust.works)
 - ttrpg.network
   - [daily_rpg_blog@ttrpg.network](https://programming.dev/c/daily_rpg_blog@ttrpg.network)
 - zerobytes.monster
