@@ -189,6 +189,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [leggins_gonewild@lemmynsfw.com](https://programming.dev/c/leggins_gonewild@lemmynsfw.com)
   - [makenzieraine@lemmynsfw.com](https://programming.dev/c/makenzieraine@lemmynsfw.com)
   - [masturbationgonewild@lemmynsfw.com](https://programming.dev/c/masturbationgonewild@lemmynsfw.com)
+  - [MeasuringTapesAndRulers@lemmynsfw.com](https://programming.dev/c/MeasuringTapesAndRulers@lemmynsfw.com)
   - [milaamour@lemmynsfw.com](https://programming.dev/c/milaamour@lemmynsfw.com)
   - [milkjugs@lemmynsfw.com](https://programming.dev/c/milkjugs@lemmynsfw.com)
   - [music_playlist@lemmynsfw.com](https://programming.dev/c/music_playlist@lemmynsfw.com)
