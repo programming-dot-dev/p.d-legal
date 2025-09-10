@@ -253,6 +253,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [realistic@nsfwaiclub.com](https://programming.dev/c/realistic@nsfwaiclub.com)
   - [stable_diffusion@nsfwaiclub.com](https://programming.dev/c/stable_diffusion@nsfwaiclub.com)
   - [threesome@nsfwaiclub.com](https://programming.dev/c/threesome@nsfwaiclub.com)
+- reddthat.com
+  - [Hentai@reddthat.com](https://programming.dev/c/Hentai@reddthat.com)
 
 ### Bot Communities
 
