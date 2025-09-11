@@ -213,7 +213,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [proneboneanal@lemmynsfw.com](https://programming.dev/c/proneboneanal@lemmynsfw.com)
   - [public_flashing@lemmynsfw.com](https://programming.dev/c/public_flashing@lemmynsfw.com)
   - [pussy@lemmynsfw.com](https://programming.dev/c/pussy@lemmynsfw.com)
-  - [ravensfw@lemmynsfw](https://programming.dev/c/ravensfw@lemmynsfw.com)
+  - [rave_nsfw@lemmynsfw](https://programming.dev/c/rave_nsfw@lemmynsfw.com)
   - [rearpussy@lemmynsfw.com](https://programming.dev/c/rearpussy@lemmynsfw.com)
   - [rearviews@lemmynsfw.com](https://programming.dev/c/rearviews@lemmynsfw.com)
   - [redhead@lemmynsfw.com](https://programming.dev/c/redhead@lemmynsfw.com)
