@@ -189,6 +189,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [leggins_gonewild@lemmynsfw.com](https://programming.dev/c/leggins_gonewild@lemmynsfw.com)
   - [makenzieraine@lemmynsfw.com](https://programming.dev/c/makenzieraine@lemmynsfw.com)
   - [masturbationgonewild@lemmynsfw.com](https://programming.dev/c/masturbationgonewild@lemmynsfw.com)
+  - [MeasuringTapesAndRulers@lemmynsfw.com](https://programming.dev/c/MeasuringTapesAndRulers@lemmynsfw.com)
   - [milaamour@lemmynsfw.com](https://programming.dev/c/milaamour@lemmynsfw.com)
   - [milkjugs@lemmynsfw.com](https://programming.dev/c/milkjugs@lemmynsfw.com)
   - [music_playlist@lemmynsfw.com](https://programming.dev/c/music_playlist@lemmynsfw.com)
@@ -212,6 +213,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [proneboneanal@lemmynsfw.com](https://programming.dev/c/proneboneanal@lemmynsfw.com)
   - [public_flashing@lemmynsfw.com](https://programming.dev/c/public_flashing@lemmynsfw.com)
   - [pussy@lemmynsfw.com](https://programming.dev/c/pussy@lemmynsfw.com)
+  - [rave_nsfw@lemmynsfw](https://programming.dev/c/rave_nsfw@lemmynsfw.com)
   - [rearpussy@lemmynsfw.com](https://programming.dev/c/rearpussy@lemmynsfw.com)
   - [rearviews@lemmynsfw.com](https://programming.dev/c/rearviews@lemmynsfw.com)
   - [redhead@lemmynsfw.com](https://programming.dev/c/redhead@lemmynsfw.com)
@@ -252,6 +254,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [realistic@nsfwaiclub.com](https://programming.dev/c/realistic@nsfwaiclub.com)
   - [stable_diffusion@nsfwaiclub.com](https://programming.dev/c/stable_diffusion@nsfwaiclub.com)
   - [threesome@nsfwaiclub.com](https://programming.dev/c/threesome@nsfwaiclub.com)
+- reddthat.com
+  - [Hentai@reddthat.com](https://programming.dev/c/Hentai@reddthat.com)
 
 ### Bot Communities
 
