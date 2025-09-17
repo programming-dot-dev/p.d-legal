@@ -42,19 +42,21 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [canadapolitics@lemmy.ca](https://programming.dev/c/canadapolitics@lemmy.ca)
 - lemmy.ml
   - [intelligence@lemmy.ml](https://programming.dev/c/intelligence@lemmy.ml)
-  - [leopardsatemyface@lemmy.world](https://programming.dev/c/leopardsatemyface@lemmy.world)
   - [politicalhumor@lemmy.ml](https://programming.dev/c/politicalhumor@lemmy.ml)
-  - [politicalmemes@lemmy.world](https://programming.dev/c/politicalmemes@lemmy.world)
-  - [politicalvideos@lemmy.world](https://programming.dev/c/politicalvideos@lemmy.world)
-  - [political_weirdos@lemmy.world](https://programming.dev/c/political_weirdos@lemmy.world)
-  - [toiletpaperusa@lemmy.world](https://programming.dev/c/toiletpaperusa@lemmy.world)
   - [usa@lemmy.ml](https://programming.dev/c/usa@lemmy.ml)
   - [worldnews@lemmy.ml](https://programming.dev/c/worldnews@lemmy.ml)
 - lemmy.world
   - [antitrumpalliance@lemmy.world](https://programming.dev/c/antitrumpalliance@lemmy.world)
   - [conservative@lemmy.world](https://programming.dev/c/conservative@lemmy.world)
+  - [leopardsatemyface@lemmy.world](https://programming.dev/c/leopardsatemyface@lemmy.world)
   - [news@lemmy.world](https://programming.dev/c/news@lemmy.world)
+  - [politicalmemes@lemmy.world](https://programming.dev/c/politicalmemes@lemmy.world)
+  - [politicalvideos@lemmy.world](https://programming.dev/c/politicalvideos@lemmy.world)
+  - [political_weirdos@lemmy.world](https://programming.dev/c/political_weirdos@lemmy.world)
   - [politics@lemmy.world](https://programming.dev/c/politics@lemmy.world)
+  - [progressivepolitics@lemmy.world](https://programming.dev/c/progressivepolitics@lemmy.world)
+  - [toiletpaperusa@lemmy.world](https://programming.dev/c/toiletpaperusa@lemmy.world)
+  - 
 - lemmygrad.ml
   - [asklemmygrad@lemmygrad.ml](https://programming.dev/c/asklemmygrad@lemmygrad.ml)
   - [memes@lemmygrad.ml](https://programming.dev/c/memes@lemmygrad.ml)
