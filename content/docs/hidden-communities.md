@@ -404,6 +404,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - metacritics.zone
   - [books@metacritics.zone](https://programming.dev/c/books@metacritics.zone)
 - news.abolish.capital
+  - [latam@news.abolish.capital](https://programming.dev/c/latam@news.abolish.capital)
   - [pravda_news@news.abolish.capital](https://programming.dev/c/pravda_news@news.abolish.capital)
   - [videos@news.abolish.capital](https://programming.dev/c/videos@news.abolish.capital)
 - radiation.party
