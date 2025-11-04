@@ -82,6 +82,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [streetmoe@ani.social](https://programming.dev/c/streetmoe@ani.social)
   - [thiccmoe@ani.social](https://programming.dev/c/thiccmoe@ani.social)
 - lemmit.online
+  - [lesbians@lemmit.online](https://programming.dev/c/lesbians@lemmit.online)
   - [nsfw_caption@lemmit.online](https://programming.dev/c/nsfw_caption@lemmit.online)
   - [retroussetits@lemmit.online](https://programming.dev/c/retroussetits@lemmit.online)
   - [taboocaptions@lemmit.online](https://programming.dev/c/taboocaptions@lemmit.online)
