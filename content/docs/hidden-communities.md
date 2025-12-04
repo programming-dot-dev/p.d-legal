@@ -184,6 +184,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [gay@lemmynsfw.com](https://programming.dev/c/gay@lemmynsfw.com)
   - [girls_in_diapers@lemmynsfw.com](https://programming.dev/c/girls_in_diapers@lemmynsfw.com)
   - [girlsdrinkingcoffee@lemmynsfw.com](https://programming.dev/c/girlsdrinkingcoffee@lemmynsfw.com)
+  - [girlsfrontlinensfw@lemmynsfw.com](https://programming.dev/c/girlsfrontlinensfw@lemmynsfw.com)
   - [girlshowering@lemmynsfw.com](https://programming.dev/c/girlshowering@lemmynsfw.com)
   - [girlsmasturbating@lemmynsfw.com](https://programming.dev/c/girlsmasturbating@lemmynsfw.com)
   - [godpussy@lemmynsfw.com](https://programming.dev/c/godpussy@lemmynsfw.com)
