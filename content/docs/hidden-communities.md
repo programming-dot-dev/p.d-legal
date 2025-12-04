@@ -196,6 +196,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [hentai@lemmynsfw.com](https://programming.dev/c/hentai@lemmynsfw.com)
   - [hentaibdsm@lemmynsfw.com](https://programming.dev/c/hentaibdsm@lemmynsfw.com)
   - [highfantasysmut@lemmynsfw.com](https://programming.dev/c/highfantasysmut@lemmynsfw.com)
+  - [Hotinfluencers@lemmynsfw.com](https://programming.dev/c/Hotinfluencers@lemmynsfw.com)
   - [hugeboobs@lemmynsfw.com](https://programming.dev/c/hugeboobs@lemmynsfw.com)
   - [ifyouhadtopickone@lemmynsfw.com](https://programming.dev/c/ifyouhadtopickone@lemmynsfw.com)
   - [indiangirls@lemmynsfw.com](https://programming.dev/c/indiangirls@lemmynsfw.com)
