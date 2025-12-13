@@ -258,6 +258,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [thehowlingwolfden@lemmynsfw.com](https://programming.dev/c/thehowlingwolfden@lemmynsfw.com)
   - [thick_hentai@lemmynsfw.com](https://programming.dev/c/thick_hentai@lemmynsfw.com)
   - [thickcum@lemmynsfw.com](https://programming.dev/c/thickcum@lemmynsfw.com)
+  - [thickhentai@lemmynsfw.com](https://programming.dev/c/thickhentai@lemmynsfw.com)
   - [tights@lemmynsfw.com](https://programming.dev/c/tights@lemmynsfw.com)
   - [tinytitties@lemmynsfw.com](https://programming.dev/c/tinytitties@lemmynsfw.com)
   - [trans@lemmynsfw.com](https://programming.dev/c/trans@lemmynsfw.com)
