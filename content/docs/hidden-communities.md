@@ -88,6 +88,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [taboocaptions@lemmit.online](https://programming.dev/c/taboocaptions@lemmit.online)
   - [tiktokthots@lemmit.online](https://programming.dev/c/tiktokthots@lemmit.online)
 - lemmy.world
+  - [cosplaybabes@lemmy.world](https://programming.dev/c/cosplaybabes@lemmy.world)
   - [fitmoe@lemmy.world](https://programming.dev/c/fitmoe@lemmy.world)
   - [nsfw@lemmy.world](https://programming.dev/c/nsfw@lemmy.world)
 - lemmynsfw.com
@@ -210,6 +211,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [masturbationgonewild@lemmynsfw.com](https://programming.dev/c/masturbationgonewild@lemmynsfw.com)
   - [MeasuringTapesAndRulers@lemmynsfw.com](https://programming.dev/c/MeasuringTapesAndRulers@lemmynsfw.com)
   - [milaamour@lemmynsfw.com](https://programming.dev/c/milaamour@lemmynsfw.com)
+  - [milfhentai@lemmynsfw.com](https://programming.dev/c/milfhentai@lemmynsfw.com)
   - [milkjugs@lemmynsfw.com](https://programming.dev/c/milkjugs@lemmynsfw.com)
   - [music_playlist@lemmynsfw.com](https://programming.dev/c/music_playlist@lemmynsfw.com)
   - [nakedyoga@lemmynsfw.com](https://programming.dev/c/nakedyoga@lemmynsfw.com)
@@ -257,6 +259,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [thehowlingwolfden@lemmynsfw.com](https://programming.dev/c/thehowlingwolfden@lemmynsfw.com)
   - [thick_hentai@lemmynsfw.com](https://programming.dev/c/thick_hentai@lemmynsfw.com)
   - [thickcum@lemmynsfw.com](https://programming.dev/c/thickcum@lemmynsfw.com)
+  - [thickhentai@lemmynsfw.com](https://programming.dev/c/thickhentai@lemmynsfw.com)
   - [tights@lemmynsfw.com](https://programming.dev/c/tights@lemmynsfw.com)
   - [tinytitties@lemmynsfw.com](https://programming.dev/c/tinytitties@lemmynsfw.com)
   - [trans@lemmynsfw.com](https://programming.dev/c/trans@lemmynsfw.com)
