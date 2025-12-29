@@ -137,6 +137,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [asiansgonewild@lemmynsfw.com](https://programming.dev/c/asiansgonewild@lemmynsfw.com)
   - [asklemmynsfw@lemmynsfw.com](https://programming.dev/c/asklemmynsfw@lemmynsfw.com)
   - [ass@lemmynsfw.com](https://programming.dev/c/ass@lemmynsfw.com)
+  - [barelylegalteens_v2@lemmynsfw.com](https://programming.dev/c/barelylegalteens_v2@lemmynsfw.com)
   - [bdsm@lemmynsfw.com](https://programming.dev/c/bdsm@lemmynsfw.com)
   - [bdsm_gonewild@lemmynsfw.com](https://programming.dev/c/bdsm_gonewild@lemmynsfw.com)
   - [bestof@lemmynsfw.com](https://programming.dev/c/bestof@lemmynsfw.com)
