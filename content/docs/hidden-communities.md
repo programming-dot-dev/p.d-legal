@@ -156,6 +156,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [bustyasians@lemmynsfw.com](https://programming.dev/c/bustyasians@lemmynsfw.com)
   - [candiceb@lemmynsfw.com](https://programming.dev/c/candiceb@lemmynsfw.com)
   - [cavendish_ai@lemmynsfw.com](https://programming.dev/c/cavendish_ai@lemmynsfw.com)
+  - [celebsizegame@lemmynsfw.com](https://programming.dev/c/celebsizegame@lemmynsfw.com)
   - [celeb_stories_games@lemmynsfw.com](https://programming.dev/c/celeb_stories_games@lemmynsfw.com)
   - [celebnsfw@lemmynsfw.com](https://programming.dev/c/celebnsfw@lemmynsfw.com)
   - [celebrity_economy@lemmynsfw.com](https://programming.dev/c/celebrity_economy@lemmynsfw.com)
