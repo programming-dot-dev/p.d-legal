@@ -397,6 +397,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [cybersecurity@lemmy.capebreton.social](https://programming.dev/c/cybersecurity@lemmy.capebreton.social)
 - lemmy.dbzer0.com
   - [botart@lemmy.dbzer0.com](https://programming.dev/c/botart@lemmy.dbzer0.com)
+- lemmy.world
+  - [economy@lemmy.world](https://programming.dev/c/economy@lemmy.world)
 - lemmy.smeargle.fans
   - [hackernews@lemmy.smeargle.fans](https://programming.dev/c/hackernews@lemmy.smeargle.fans)
   - [necoarc@lemmy.smeargle.fans](https://programming.dev/c/necoarc@lemmy.smeargle.fans)
