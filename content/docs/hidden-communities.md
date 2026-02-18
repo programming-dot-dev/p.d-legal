@@ -132,6 +132,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [analcreampie@lemmynsfw.com](https://programming.dev/c/analcreampie@lemmynsfw.com)
   - [analgifs@lemmynsfw.com](https://programming.dev/c/analgifs@lemmynsfw.com)
   - [analnsfw@lemmynsfw.com](https://programming.dev/c/analnsfw@lemmynsfw.com)
+  - [animebooty@lemmynsfw.com](https://programming.dev/c/animebooty@lemmynsfw.com)
   - [animelegs@lemmynsfw.com](https://programming.dev/c/animelegs@lemmynsfw.com)
   - [animemidriff@lemmynsfw.com](https://programming.dev/c/animemidriff@lemmynsfw.com)
   - [anklepanties@lemmynsfw.com](https://programming.dev/c/anklepanties@lemmynsfw.com)
