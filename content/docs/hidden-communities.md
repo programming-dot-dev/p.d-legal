@@ -287,6 +287,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [threesome@nsfwaiclub.com](https://programming.dev/c/threesome@nsfwaiclub.com)
 - reddthat.com
   - [Hentai@reddthat.com](https://programming.dev/c/Hentai@reddthat.com)
+  - [nikkensfw@reddthat.com](https://programming.dev/c/nikkensfw@reddthat.com)
 - piefed.zip
   - [BigAnimeTiddies@piefed.zip](https://programming.dev/c/BigAnimeTiddies@piefed.zip)
 
