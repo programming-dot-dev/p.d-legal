@@ -61,7 +61,6 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [politics@lemmy.world](https://programming.dev/c/politics@lemmy.world)
   - [progressivepolitics@lemmy.world](https://programming.dev/c/progressivepolitics@lemmy.world)
   - [toiletpaperusa@lemmy.world](https://programming.dev/c/toiletpaperusa@lemmy.world)
-  - 
 - lemmygrad.ml
   - [asklemmygrad@lemmygrad.ml](https://programming.dev/c/asklemmygrad@lemmygrad.ml)
   - [memes@lemmygrad.ml](https://programming.dev/c/memes@lemmygrad.ml)
@@ -86,6 +85,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [officemoe@ani.social](https://programming.dev/c/officemoe@ani.social)
   - [streetmoe@ani.social](https://programming.dev/c/streetmoe@ani.social)
   - [thiccmoe@ani.social](https://programming.dev/c/thiccmoe@ani.social)
+- fedinsfw.app
+  - [bdsm@fedinsfw.app](https://programming.dev/c/bdsm@fedinsfw.app)
 - lemmit.online
   - [lesbians@lemmit.online](https://programming.dev/c/lesbians@lemmit.online)
   - [nsfw_caption@lemmit.online](https://programming.dev/c/nsfw_caption@lemmit.online)
