@@ -89,6 +89,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [bdsm@fedinsfw.app](https://programming.dev/c/bdsm@fedinsfw.app)
   - [boobs@fedinsfw.app](https://programming.dev/c/boobs@fedinsfw.app)
   - [bustypetite@fedinsfw.app](https://programming.dev/c/bustypetite@fedinsfw.app)
+  - [hugeboobs@fedinsfw.app](https://programming.dev/c/hugeboobs@fedinsfw.app)
 - lemmit.online
   - [lesbians@lemmit.online](https://programming.dev/c/lesbians@lemmit.online)
   - [nsfw_caption@lemmit.online](https://programming.dev/c/nsfw_caption@lemmit.online)
