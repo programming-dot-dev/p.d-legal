@@ -91,7 +91,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [bustypetite@fedinsfw.app](https://programming.dev/c/bustypetite@fedinsfw.app)
   - [cumsluts@fedinsfw.app](https://programming.dev/c/cumsluts@fedinsfw.app)
   - [gonewild@fedinsfw.app](https://programming.dev/c/gonewild@fedinsfw.app)
+  - [hotwife@fedinsfw.app](https://programming.dev/c/hotwife@fedinsfw.app)
   - [hugeboobs@fedinsfw.app](https://programming.dev/c/hugeboobs@fedinsfw.app)
+  - [lactation@fedinsfw.app](https://programming.dev/c/lactation@fedinsfw.app)
   - [titties@fedinsfw.app](https://programming.dev/c/titties@fedinsfw.app)
 - lemmit.online
   - [lesbians@lemmit.online](https://programming.dev/c/lesbians@lemmit.online)
