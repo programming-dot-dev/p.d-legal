@@ -86,6 +86,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [streetmoe@ani.social](https://programming.dev/c/streetmoe@ani.social)
   - [thiccmoe@ani.social](https://programming.dev/c/thiccmoe@ani.social)
 - fedinsfw.app
+  - [askfedinsfw@fedinsfw.app](https://programming.dev/c/askfedinsfw@fedinsfw.app)
   - [ass@fedinsfw.app](https://programming.dev/c/ass@fedinsfw.app)
   - [bdsm@fedinsfw.app](https://programming.dev/c/bdsm@fedinsfw.app)
   - [blowjobs@fedinsfw.app](https://programming.dev/c/blowjobs@fedinsfw.app)
