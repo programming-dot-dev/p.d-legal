@@ -416,6 +416,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [botart@lemmy.dbzer0.com](https://programming.dev/c/botart@lemmy.dbzer0.com)
 - lemmy.world
   - [economy@lemmy.world](https://programming.dev/c/economy@lemmy.world)
+  - [europeanfederalists@lemmy.world](https://programming.dev/c/europeanfederalists@lemmy.world)
 - lemmy.smeargle.fans
   - [hackernews@lemmy.smeargle.fans](https://programming.dev/c/hackernews@lemmy.smeargle.fans)
   - [necoarc@lemmy.smeargle.fans](https://programming.dev/c/necoarc@lemmy.smeargle.fans)
@@ -450,6 +451,26 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [main@selfhosted.forum](https://programming.dev/c/main@selfhosted.forum)
 - sh.itjust.works
   - [asslips@sh.itjust.works](https://programming.dev/c/asslips@sh.itjust.works)
+- thelemmy.club
+  - [adulting@thelemmy.club](https://programming.dev/c/adulting@thelemmy.club)
+  - [alk@thelemmy.club](https://programming.dev/c/alk@thelemmy.club)
+  - [ats@thelemmy.club](https://programming.dev/c/ats@thelemmy.club)
+  - [ews@thelemmy.club](https://programming.dev/c/ews@thelemmy.club)
+  - [funny@thelemmy.club](https://programming.dev/c/funny@thelemmy.club)
+  - [gif_lemmy@thelemmy.club](https://programming.dev/c/gif_lemmy@thelemmy.club)
+  - [interestingasfuck@thelemmy.club](https://programming.dev/c/interestingasfuck@thelemmy.club)
+  - [lippers@thelemmy.club](https://programming.dev/c/lippers@thelemmy.club)
+  - [movies@thelemmy.club](https://programming.dev/c/movies@thelemmy.club)
+  - [nba@thelemmy.club](https://programming.dev/c/nba@thelemmy.club)
+  - [nbamemes@thelemmy.club](https://programming.dev/c/nbamemes@thelemmy.club)
+  - [ooer@thelemmy.club](https://programming.dev/c/ooer@thelemmy.club)
+  - [recruitinghell@thelemmy.club](https://programming.dev/c/recruitinghell@thelemmy.club)
+  - [soccer@thelemmy.club](https://programming.dev/c/soccer@thelemmy.club)
+  - [television@thelemmy.club](https://programming.dev/c/television@thelemmy.club)
+  - [topps@thelemmy.club](https://programming.dev/c/topps@thelemmy.club)
+  - [videos@thelemmy.club](https://programming.dev/c/videos@thelemmy.club)
+  - [what@thelemmy.club](https://programming.dev/c/what@thelemmy.club)
+  - [whoathatsinteresting@thelemmy.club](https://programming.dev/c/whoathatsinteresting@thelemmy.club)
 - ttrpg.network
   - [daily_rpg_blog@ttrpg.network](https://programming.dev/c/daily_rpg_blog@ttrpg.network)
 - zerobytes.monster
