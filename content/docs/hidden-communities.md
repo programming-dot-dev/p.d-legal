@@ -473,6 +473,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [whoathatsinteresting@thelemmy.club](https://programming.dev/c/whoathatsinteresting@thelemmy.club)
 - ttrpg.network
   - [daily_rpg_blog@ttrpg.network](https://programming.dev/c/daily_rpg_blog@ttrpg.network)
+- yall.theatl.social
+  - [atlantanews@yall.theatl.social](https://programming.dev/c/atlantanews@yall.theatl.social)
 - zerobytes.monster
   - [amitheasshole@zerobytes.monster](https://programming.dev/c/amitheasshole@zerobytes.monster)
   - [animalsbeingderps@zerobytes.monster](https://programming.dev/c/animalsbeingderps@zerobytes.monster)
