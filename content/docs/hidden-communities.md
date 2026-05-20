@@ -12,16 +12,14 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 
 ### Test Communities
 
-- programming.dev
-  - [test@programming.dev](https://programming.dev/c/test@programming.dev)
 - lemmy.ml
   - [test@lemmy.ml](https://programming.dev/c/test@lemmy.ml)
-
+- programming.dev
+  - [test@programming.dev](https://programming.dev/c/test@programming.dev)
 ### Spam/Advertising Communities
 
 - forum.wedistribute.org
   - [Fediverse@forum.wedistribute.org](https://programming.dev/c/Fediverse@forum.wedistribute.org)
-
 ### Political Communities
 
 - 5050.chat
@@ -55,9 +53,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [conservative@lemmy.world](https://programming.dev/c/conservative@lemmy.world)
   - [leopardsatemyface@lemmy.world](https://programming.dev/c/leopardsatemyface@lemmy.world)
   - [news@lemmy.world](https://programming.dev/c/news@lemmy.world)
+  - [political_weirdos@lemmy.world](https://programming.dev/c/political_weirdos@lemmy.world)
   - [politicalmemes@lemmy.world](https://programming.dev/c/politicalmemes@lemmy.world)
   - [politicalvideos@lemmy.world](https://programming.dev/c/politicalvideos@lemmy.world)
-  - [political_weirdos@lemmy.world](https://programming.dev/c/political_weirdos@lemmy.world)
   - [politics@lemmy.world](https://programming.dev/c/politics@lemmy.world)
   - [progressivepolitics@lemmy.world](https://programming.dev/c/progressivepolitics@lemmy.world)
   - [toiletpaperusa@lemmy.world](https://programming.dev/c/toiletpaperusa@lemmy.world)
@@ -69,7 +67,6 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - midwest.social
   - [therightcantmeme@midwest.social](https://programming.dev/c/therightcantmeme@midwest.social)
   - [usa@midwest.social](https://programming.dev/c/usa@midwest.social)
-
 ### NSFW
 
 - ani.social
@@ -173,12 +170,12 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [bustyasians@lemmynsfw.com](https://programming.dev/c/bustyasians@lemmynsfw.com)
   - [candiceb@lemmynsfw.com](https://programming.dev/c/candiceb@lemmynsfw.com)
   - [cavendish_ai@lemmynsfw.com](https://programming.dev/c/cavendish_ai@lemmynsfw.com)
-  - [celebsizegame@lemmynsfw.com](https://programming.dev/c/celebsizegame@lemmynsfw.com)
   - [celeb_stories_games@lemmynsfw.com](https://programming.dev/c/celeb_stories_games@lemmynsfw.com)
   - [celebnsfw@lemmynsfw.com](https://programming.dev/c/celebnsfw@lemmynsfw.com)
   - [celebrity_economy@lemmynsfw.com](https://programming.dev/c/celebrity_economy@lemmynsfw.com)
   - [celebrityarmpits@lemmynsfw.com](https://programming.dev/c/celebrityarmpits@lemmynsfw.com)
   - [celebs@lemmynsfw.com](https://programming.dev/c/celebs@lemmynsfw.com)
+  - [celebsizegame@lemmynsfw.com](https://programming.dev/c/celebsizegame@lemmynsfw.com)
   - [charlotte_carmen@lemmynsfw.com](https://programming.dev/c/charlotte_carmen@lemmynsfw.com)
   - [chat@lemmynsfw.com](https://programming.dev/c/chat@lemmynsfw.com)
   - [cheatingcaptions@lemmynsfw.com](https://programming.dev/c/cheatingcaptions@lemmynsfw.com)
@@ -286,12 +283,12 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [thickhentai@lemmynsfw.com](https://programming.dev/c/thickhentai@lemmynsfw.com)
   - [tights@lemmynsfw.com](https://programming.dev/c/tights@lemmynsfw.com)
   - [tinytitties@lemmynsfw.com](https://programming.dev/c/tinytitties@lemmynsfw.com)
+  - [tonedbelly@lemmynsfw.com](https://programming.dev/c/tonedbelly@lemmynsfw.com)
   - [trans@lemmynsfw.com](https://programming.dev/c/trans@lemmynsfw.com)
   - [trans_girls@lemmynsfw.com](https://programming.dev/c/trans_girls@lemmynsfw.com)
   - [transanal@lemmynsfw.com](https://programming.dev/c/transanal@lemmynsfw.com)
   - [transporn@lemmynsfw.com](https://programming.dev/c/transporn@lemmynsfw.com)
   - [trashyboners@lemmynsfw.com](https://programming.dev/c/trashyboners@lemmynsfw.com)
-  - [tonedbelly@lemmynsfw.com](https://programming.dev/c/tonedbelly@lemmynsfw.com)
   - [unshavedhentai@lemmynsfw.com](https://programming.dev/c/unshavedhentai@lemmynsfw.com)
   - [upskirt@lemmynsfw.com](https://programming.dev/c/upskirt@lemmynsfw.com)
   - [wholesomecomics@lemmynsfw.com](https://programming.dev/c/wholesomecomics@lemmynsfw.com)
@@ -301,12 +298,11 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [realistic@nsfwaiclub.com](https://programming.dev/c/realistic@nsfwaiclub.com)
   - [stable_diffusion@nsfwaiclub.com](https://programming.dev/c/stable_diffusion@nsfwaiclub.com)
   - [threesome@nsfwaiclub.com](https://programming.dev/c/threesome@nsfwaiclub.com)
+- piefed.zip
+  - [BigAnimeTiddies@piefed.zip](https://programming.dev/c/BigAnimeTiddies@piefed.zip)
 - reddthat.com
   - [Hentai@reddthat.com](https://programming.dev/c/Hentai@reddthat.com)
   - [nikkensfw@reddthat.com](https://programming.dev/c/nikkensfw@reddthat.com)
-- piefed.zip
-  - [BigAnimeTiddies@piefed.zip](https://programming.dev/c/BigAnimeTiddies@piefed.zip)
-
 ### Bot Communities
 
 - academy.garden
@@ -331,15 +327,14 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [porsche@gearhead.town](https://programming.dev/c/porsche@gearhead.town)
 - lemmit.online
   - [3dprinting@lemmit.online](https://programming.dev/c/3dprinting@lemmit.online)
-  - [AmItheAsshole@lemmit.online](https://programming.dev/c/AmItheAsshole@lemmit.online)
-  - [AskReddit@lemmit.online](https://programming.dev/c/AskReddit@lemmit.online)
-  - [ProgrammerHumor@lemmit.online](https://programming.dev/c/ProgrammerHumor@lemmit.online)
   - [altgirls@lemmit.online](https://programming.dev/c/altgirls@lemmit.online)
+  - [AmItheAsshole@lemmit.online](https://programming.dev/c/AmItheAsshole@lemmit.online)
   - [androiddev@lemmit.online](https://programming.dev/c/androiddev@lemmit.online)
   - [animemes@lemmit.online](https://programming.dev/c/animemes@lemmit.online)
   - [antimeme@lemmit.online](https://programming.dev/c/antimeme@lemmit.online)
   - [apple@lemmit.online](https://programming.dev/c/apple@lemmit.online)
   - [applevisionpro@lemmit.online](https://programming.dev/c/applevisionpro@lemmit.online)
+  - [AskReddit@lemmit.online](https://programming.dev/c/AskReddit@lemmit.online)
   - [bapcsalescanada@lemmit.online](https://programming.dev/c/bapcsalescanada@lemmit.online)
   - [battlestations@lemmit.online](https://programming.dev/c/battlestations@lemmit.online)
   - [bbwgw@lemmit.online](https://programming.dev/c/bbwgw@lemmit.online)
@@ -394,6 +389,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [pathofexile@lemmit.online](https://programming.dev/c/pathofexile@lemmit.online)
   - [pcmasterrace@lemmit.online](https://programming.dev/c/pcmasterrace@lemmit.online)
   - [prettygirlsuglyfaces@lemmit.online](https://programming.dev/c/prettygirlsuglyfaces@lemmit.online)
+  - [ProgrammerHumor@lemmit.online](https://programming.dev/c/ProgrammerHumor@lemmit.online)
   - [requests@lemmit.online](https://programming.dev/c/requests@lemmit.online)
   - [rust@lemmit.online](https://programming.dev/c/rust@lemmit.online)
   - [sbcgaming@lemmit.online](https://programming.dev/c/sbcgaming@lemmit.online)
@@ -420,16 +416,16 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [cybersecurity@lemmy.capebreton.social](https://programming.dev/c/cybersecurity@lemmy.capebreton.social)
 - lemmy.dbzer0.com
   - [botart@lemmy.dbzer0.com](https://programming.dev/c/botart@lemmy.dbzer0.com)
-- lemmy.world
-  - [economy@lemmy.world](https://programming.dev/c/economy@lemmy.world)
-  - [europeanfederalists@lemmy.world](https://programming.dev/c/europeanfederalists@lemmy.world)
+- lemmy.ml
+  - [communism@lemmy.ml](https://programming.dev/c/communism@lemmy.ml)
+  - [manga@lemmy.ml](https://programming.dev/c/manga@lemmy.ml)
 - lemmy.smeargle.fans
   - [hackernews@lemmy.smeargle.fans](https://programming.dev/c/hackernews@lemmy.smeargle.fans)
   - [necoarc@lemmy.smeargle.fans](https://programming.dev/c/necoarc@lemmy.smeargle.fans)
   - [okbuddyretard@lemmy.smeargle.fans](https://programming.dev/c/okbuddyretard@lemmy.smeargle.fans)
-- lemmy.ml
-  - [communism@lemmy.ml](https://programming.dev/c/communism@lemmy.ml)
-  - [manga@lemmy.ml](https://programming.dev/c/manga@lemmy.ml)
+- lemmy.world
+  - [economy@lemmy.world](https://programming.dev/c/economy@lemmy.world)
+  - [europeanfederalists@lemmy.world](https://programming.dev/c/europeanfederalists@lemmy.world)
 - lemmy.zip
   - [gaming@lemmy.zip](https://programming.dev/c/gaming@lemmy.zip)
 - lemy.nl
@@ -517,4 +513,3 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [web_design@zerobytes.monster](https://programming.dev/c/web_design@zerobytes.monster)
   - [whitepeopletwitter@zerobytes.monster](https://programming.dev/c/whitepeopletwitter@zerobytes.monster)
   - [wireguard@zerobytes.monster](https://programming.dev/c/wireguard@zerobytes.monster)
-
