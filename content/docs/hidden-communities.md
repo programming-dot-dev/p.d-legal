@@ -320,8 +320,11 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [chicubs@fanaticus.social](https://programming.dev/c/chicubs@fanaticus.social)
   - [mariners@fanaticus.social](https://programming.dev/c/mariners@fanaticus.social)
   - [texasrangers@fanaticus.social](https://programming.dev/c/texasrangers@fanaticus.social)
+- feddit.org
+  - [die_reklame@feddit.org](https://programming.dev/c/die_reklame@feddit.org) 
 - feddit.uk
   - [beds@feddit.uk](https://programming.dev/c/beds@feddit.uk)
+  - [britishtelly@feddit.uk](https://programming.dev/c/britishtelly@feddit.uk)
 - gearhead.town
   - [porsche@gearhead.town](https://programming.dev/c/porsche@gearhead.town)
 - lemmit.online
