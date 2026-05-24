@@ -100,6 +100,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [lactation@fedinsfw.app](https://programming.dev/c/lactation@fedinsfw.app)
   - [titties@fedinsfw.app](https://programming.dev/c/titties@fedinsfw.app)
 - lemmit.online
+  - [daresgonewild@lemmit.online](https://programming.dev/c/daresgonewild@lemmit.online)
   - [lesbians@lemmit.online](https://programming.dev/c/lesbians@lemmit.online)
   - [nsfw_caption@lemmit.online](https://programming.dev/c/nsfw_caption@lemmit.online)
   - [retroussetits@lemmit.online](https://programming.dev/c/retroussetits@lemmit.online)
@@ -386,6 +387,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [lifeprotips@lemmit.online](https://programming.dev/c/lifeprotips@lemmit.online)
   - [linux_gaming@lemmit.online](https://programming.dev/c/linux_gaming@lemmit.online)
   - [machinelearning@lemmit.online](https://programming.dev/c/machinelearning@lemmit.online)
+  - [malelivingspace@lemmit.online](https://programming.dev/c/malelivingspace@lemmit.online)
   - [movies@lemmit.online](https://programming.dev/c/movies@lemmit.online)
   - [nixos@lemmit.online](https://programming.dev/c/nixos@lemmit.online)
   - [pathofexile@lemmit.online](https://programming.dev/c/pathofexile@lemmit.online)
