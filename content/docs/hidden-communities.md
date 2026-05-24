@@ -22,7 +22,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [Fediverse@forum.wedistribute.org](https://programming.dev/c/Fediverse@forum.wedistribute.org)
 ### Political Communities
 
-- 5050.chat
+- 50501.chat
   - [Mirror@50501.chat](https://programming.dev/c/Mirror@50501.chat)
 - beehaw.org
   - [news@beehaw.org](https://programming.dev/c/news@beehaw.org)

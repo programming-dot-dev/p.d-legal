@@ -1,19 +1,25 @@
 import json
 import os
 
-def add_hidden_community(category_name, instance_name, community):
+def add_hidden_community(category_name, community):
     with open("hidden-communities.json", "r") as f:
         categories = json.load(f)
 
     category = categories[category_name]
-    if instance_name not in category.keys():
-        category[instance_name] = []
-    instance = category[instance_name]
-    instance.append(community)
+    category.append(community)
 
     with open("hidden-communities.json", "w") as f:
         json.dump(categories, f, indent=2)
 
+
+def unpack_instances(community_list):
+    instances = {}
+    for community in community_list:
+        instance = community.split("@")[1]
+        if instance not in instances:
+            instances[instance] = []
+        instances[instance].append(community)
+    return instances
 
 def generate_hidden_communities():
     with open("hidden-communities.json", "r") as f:
@@ -43,7 +49,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
             print(f"### Test Communities\n")
         if category_name == "other":
             print(f"### Other\n")
-        instances = categories[category_name]
+
+        instances = unpack_instances(categories[category_name])
         for instance in sorted(instances.keys(), key=str.casefold):
             print(f"- {instance}")
             communities = sorted(instances[instance], key=str.casefold)
@@ -92,4 +99,4 @@ Must include instance name, e.g. "test@programming.dev"
             """)
             exit(-1)
         instance = community.split("@")[1]
-        add_hidden_community(category_name, instance, community)
+        add_hidden_community(category_name, community)
