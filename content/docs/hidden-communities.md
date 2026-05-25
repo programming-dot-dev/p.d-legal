@@ -25,14 +25,14 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 ### Political Communities
 
 - 5050.chat
-  - [Mirror@50501.chat](https://programming.dev/c/Mirror@50501.chat) 
+  - [Mirror@50501.chat](https://programming.dev/c/Mirror@50501.chat)
 - beehaw.org
   - [news@beehaw.org](https://programming.dev/c/news@beehaw.org)
   - [politics@beehaw.org](https://programming.dev/c/politics@beehaw.org)
 - feddit.org
-  - [conservative2@feddit.org](https://programming.dev/c/conservative2@feddit.org) 
+  - [conservative2@feddit.org](https://programming.dev/c/conservative2@feddit.org)
 - feddit.uk
-  - [uk_politics@feddit.uk](https://programming.dev/c/uk_politics@feddit.uk) 
+  - [uk_politics@feddit.uk](https://programming.dev/c/uk_politics@feddit.uk)
 - hexbear.net
   - [askchapo@hexbear.net](https://programming.dev/c/askchapo@hexbear.net)
   - [chapotraphouse@hexbear.net](https://programming.dev/c/chapotraphouse@hexbear.net)
@@ -43,7 +43,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [sino@hexbear.net](https://programming.dev/c/sino@hexbear.net)
   - [the_dunk_tank@hexbear.net](https://programming.dev/c/the_dunk_tank@hexbear.net)
 - lemmy.ca
-  - [boycottus@lemmy.ca](https://programming.dev/c/boycottus@lemmy.ca) 
+  - [boycottus@lemmy.ca](https://programming.dev/c/boycottus@lemmy.ca)
   - [canadapolitics@lemmy.ca](https://programming.dev/c/canadapolitics@lemmy.ca)
 - lemmy.ml
   - [intelligence@lemmy.ml](https://programming.dev/c/intelligence@lemmy.ml)
@@ -110,6 +110,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [cosplaybabes@lemmy.world](https://programming.dev/c/cosplaybabes@lemmy.world)
   - [fitmoe@lemmy.world](https://programming.dev/c/fitmoe@lemmy.world)
   - [nsfw@lemmy.world](https://programming.dev/c/nsfw@lemmy.world)
+  - [thongs@lemmy.world](https://programming.dev/c/thongs@lemmy.world)
 - lemmynsfw.com
   - [aa_cups@lemmynsfw.com](https://programming.dev/c/aa_cups@lemmynsfw.com)
   - [adorableporn@lemmynsfw.com](https://programming.dev/c/adorableporn@lemmynsfw.com)
@@ -256,7 +257,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [proneboneanal@lemmynsfw.com](https://programming.dev/c/proneboneanal@lemmynsfw.com)
   - [public_flashing@lemmynsfw.com](https://programming.dev/c/public_flashing@lemmynsfw.com)
   - [pussy@lemmynsfw.com](https://programming.dev/c/pussy@lemmynsfw.com)
-  - [rave_nsfw@lemmynsfw](https://programming.dev/c/rave_nsfw@lemmynsfw.com)
+  - [rave_nsfw@lemmynsfw.com](https://programming.dev/c/rave_nsfw@lemmynsfw.com)
   - [rearpussy@lemmynsfw.com](https://programming.dev/c/rearpussy@lemmynsfw.com)
   - [rearviews@lemmynsfw.com](https://programming.dev/c/rearviews@lemmynsfw.com)
   - [redhead@lemmynsfw.com](https://programming.dev/c/redhead@lemmynsfw.com)
@@ -476,6 +477,8 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [whoathatsinteresting@thelemmy.club](https://programming.dev/c/whoathatsinteresting@thelemmy.club)
 - ttrpg.network
   - [daily_rpg_blog@ttrpg.network](https://programming.dev/c/daily_rpg_blog@ttrpg.network)
+- yall.theatl.social
+  - [atlantanews@yall.theatl.social](https://programming.dev/c/atlantanews@yall.theatl.social)
 - zerobytes.monster
   - [amitheasshole@zerobytes.monster](https://programming.dev/c/amitheasshole@zerobytes.monster)
   - [animalsbeingderps@zerobytes.monster](https://programming.dev/c/animalsbeingderps@zerobytes.monster)
@@ -512,3 +515,4 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [web_design@zerobytes.monster](https://programming.dev/c/web_design@zerobytes.monster)
   - [whitepeopletwitter@zerobytes.monster](https://programming.dev/c/whitepeopletwitter@zerobytes.monster)
   - [wireguard@zerobytes.monster](https://programming.dev/c/wireguard@zerobytes.monster)
+
