@@ -1,7 +1,8 @@
 import json
 import os
 
-def add_hidden_community(category_name, community):
+
+def add_hidden_community(category_name: str, community: str):
     with open("hidden-communities.json", "r") as f:
         categories = json.load(f)
 
@@ -12,7 +13,7 @@ def add_hidden_community(category_name, community):
         json.dump(categories, f, indent=2)
 
 
-def unpack_instances(community_list):
+def unpack_instances(community_list: list[str]) -> dict[str, list[str]]:
     instances = {}
     for community in community_list:
         instance = community.split("@")[1]
@@ -20,6 +21,7 @@ def unpack_instances(community_list):
             instances[instance] = []
         instances[instance].append(community)
     return instances
+
 
 def generate_hidden_communities():
     with open("hidden-communities.json", "r") as f:
@@ -43,15 +45,15 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 
         if category_name == "nsfw":
             print(f"### NSFW\n")
-        if category_name == "bots":
+        elif category_name == "bots":
             print(f"### Bot Communities\n")
-        if category_name == "political":
+        elif category_name == "political":
             print(f"### Political Communities\n")
-        if category_name == "spam":
+        elif category_name == "spam":
             print(f"### Spam/Advertising Communities\n")
-        if category_name == "test":
+        elif category_name == "test":
             print(f"### Test Communities\n")
-        if category_name == "other":
+        elif category_name == "other":
             print(f"### Other\n")
 
         for instance in sorted(instances.keys(), key=str.casefold):
@@ -60,6 +62,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
             for community in communities:
                 print(f"  - [{community}](https://programming.dev/c/{community})")
             print()
+
 
 """
 Usage:
@@ -71,7 +74,7 @@ Usage:
         Category: nsfw, bots, political, spam, test, other
         Community: Must include instance name, e.g. "test@programming.dev"
 """
-if __name__ == "__main__":
+def main():
     args = os.sys.argv
     args.pop(0)
     command = args.pop(0)
@@ -95,5 +98,8 @@ Invalid Community:
 Must include instance name, e.g. "test@programming.dev"
             """)
             exit(-1)
-        instance = community.split("@")[1]
         add_hidden_community(category_name, community)
+
+
+if __name__ == "__main__":
+    main()
