@@ -5,7 +5,7 @@ def add_hidden_community(category_name, community):
     with open("hidden-communities.json", "r") as f:
         categories = json.load(f)
 
-    category = categories[category_name]
+    category = categories.get(category_name, categories.get("other"))
     category.append(community)
 
     with open("hidden-communities.json", "w") as f:
@@ -84,13 +84,6 @@ Community: Must include instance name, e.g. "test@programming.dev"
             """)
             exit(-1)
         category_name = args.pop(0)
-        if category_name not in ["nsfw", "bots", "political", "spam", "test", "other"]:
-            print("""
-Invalid Category:
-
-Category: nsfw, bots, political, spam, test, other
-            """)
-            exit(-1)
         community = args.pop(0)
         if "@" not in community:
             print("""
