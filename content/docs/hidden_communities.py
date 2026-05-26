@@ -56,6 +56,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
             communities = sorted(instances[instance], key=str.casefold)
             for community in communities:
                 print(f"  - [{community}](https://programming.dev/c/{community})")
+            print()
 
 """
 Usage:
