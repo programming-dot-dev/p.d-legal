@@ -37,6 +37,10 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 ## Hidden Communities
 """)
     for category_name in categories.keys():
+        instances = unpack_instances(categories[category_name])
+        if len(instances) == 0:
+            continue
+
         if category_name == "nsfw":
             print(f"### NSFW\n")
         if category_name == "bots":
@@ -50,7 +54,6 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
         if category_name == "other":
             print(f"### Other\n")
 
-        instances = unpack_instances(categories[category_name])
         for instance in sorted(instances.keys(), key=str.casefold):
             print(f"- {instance}")
             communities = sorted(instances[instance], key=str.casefold)
