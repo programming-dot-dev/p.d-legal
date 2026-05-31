@@ -484,6 +484,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [pravda_news@news.abolish.capital](https://programming.dev/c/pravda_news@news.abolish.capital)
   - [videos@news.abolish.capital](https://programming.dev/c/videos@news.abolish.capital)
 
+- quokk.au
+  - [commvscomm@quokk.au](https://programming.dev/c/commvscomm@quokk.au)
+
 - radiation.party
   - [technews@radiation.party](https://programming.dev/c/technews@radiation.party)
 
