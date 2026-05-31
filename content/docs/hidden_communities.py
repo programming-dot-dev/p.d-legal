@@ -7,7 +7,8 @@ def add_hidden_community(category_name: str, community: str):
         categories = json.load(f)
 
     category = categories.get(category_name, categories.get("other"))
-    category.append(community)
+    if community not in category:
+        category.append(community)
 
     with open("hidden-communities.json", "w") as f:
         json.dump(categories, f, indent=2)
