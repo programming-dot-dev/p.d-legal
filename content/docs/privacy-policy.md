@@ -22,11 +22,15 @@ Any information we collect from you may be used in the following ways:
 - To aid in moderation of our services, for example to detect vote manipulation.
 - To send you information, notifications about other people interacting with your content or sending you messages, or notifications for new posts created, if you opt in to any of these options in the settings. We may also use it to respond to you about inquiries, and/or other requests or questions.
 
+### Monitoring of High Risk Users
+To combat harassment campaigns and other forms of abuse, we use in-house tools to monitor activity of new users and users who have been flagged for abusive behaviour ([see the admin guidelines]([https://legal.programming.dev/docs/administration-guidelines/#the-3-4-strike-system)). No private data is transfered out of the server. This automated process is used exclusively to help speed up the process of detecting abuse and all flagged content is manually reviewed by an administrator before any action is taken. The tool may only temporarily remove comments and posts until a manual review is completed.  
+While the tool may use statistical analysis on text content, it makes **_does not use any form of Large Language Models (LLMs)_** for the purpose of moderation.
+
 ## What Information do we Collect?
 
 **Account/Profile Information:**
 
-- When creating an account on one of our services you may be asked to enter in a username and password. You may also enter additional information into optional fields such as: email, display name, profile picture, banner image, matrix ID, location, birthday, language, and biography.
+- When creating an account on one of our services you may be asked to enter in a username and password. You may also enter additional information into optional fields such as: email, display name, profile picture, banner image, matrix ID, location, birthday, language and biography.
 - Currently (as of February 10, 2024), all of the optional fields are always listed publicly; your password and email is kept private.
 
 **Service Provided User Actions:**
