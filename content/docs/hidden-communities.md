@@ -461,6 +461,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - lemmy.world
   - [economy@lemmy.world](https://programming.dev/c/economy@lemmy.world)
   - [europeanfederalists@lemmy.world](https://programming.dev/c/europeanfederalists@lemmy.world)
+  - [Settlements@lemmy.world](https://programming.dev/c/Settlements@lemmy.world)
 
 - lemmy.zip
   - [gaming@lemmy.zip](https://programming.dev/c/gaming@lemmy.zip)
