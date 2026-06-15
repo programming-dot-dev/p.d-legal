@@ -18,6 +18,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - programming.dev
   - [test@programming.dev](https://programming.dev/c/test@programming.dev)
 
+- sh.itjust.works
+  - [test@sh.itjust.works](https://programming.dev/c/test@sh.itjust.works)
+
 ### Spam/Advertising Communities
 
 - forum.wedistribute.org

@@ -1,7 +1,8 @@
 {
   "test": [
     "test@programming.dev",
-    "test@lemmy.ml"
+    "test@lemmy.ml",
+    "test@sh.itjust.works"
   ],
   "spam": [
     "Fediverse@forum.wedistribute.org"
