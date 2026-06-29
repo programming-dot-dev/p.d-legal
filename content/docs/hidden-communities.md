@@ -102,6 +102,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - fedinsfw.app
   - [askfedinsfw@fedinsfw.app](https://programming.dev/c/askfedinsfw@fedinsfw.app)
   - [ass@fedinsfw.app](https://programming.dev/c/ass@fedinsfw.app)
+  - [bbcparadise@fedinsfw.app](https://programming.dev/c/bbcparadise@fedinsfw.app)
   - [bdsm@fedinsfw.app](https://programming.dev/c/bdsm@fedinsfw.app)
   - [blowjobs@fedinsfw.app](https://programming.dev/c/blowjobs@fedinsfw.app)
   - [boobs@fedinsfw.app](https://programming.dev/c/boobs@fedinsfw.app)
