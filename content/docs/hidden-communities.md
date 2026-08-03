@@ -328,6 +328,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 
 - reddthat.com
   - [Hentai@reddthat.com](https://programming.dev/c/Hentai@reddthat.com)
+  - [naturalvulva@reddthat.com](https://programming.dev/c/naturalvulva@reddthat.com)
   - [nikkensfw@reddthat.com](https://programming.dev/c/nikkensfw@reddthat.com)
 
 ### Bot Communities
