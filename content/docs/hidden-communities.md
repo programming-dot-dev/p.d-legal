@@ -130,6 +130,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [cosplaybabes@lemmy.world](https://programming.dev/c/cosplaybabes@lemmy.world)
   - [fitmoe@lemmy.world](https://programming.dev/c/fitmoe@lemmy.world)
   - [nsfw@lemmy.world](https://programming.dev/c/nsfw@lemmy.world)
+  - [nsfwcyoa@lemmy.world](https://programming.dev/c/nsfwcyoa@lemmy.world)
   - [thongs@lemmy.world](https://programming.dev/c/thongs@lemmy.world)
 
 - lemmynsfw.com
