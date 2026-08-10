@@ -58,6 +58,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - lemmy.ml
   - [intelligence@lemmy.ml](https://programming.dev/c/intelligence@lemmy.ml)
   - [politicalhumor@lemmy.ml](https://programming.dev/c/politicalhumor@lemmy.ml)
+  - [ukrainerussiareport@lemmy.ml](https://programming.dev/c/ukrainerussiareport@lemmy.ml)
   - [usa@lemmy.ml](https://programming.dev/c/usa@lemmy.ml)
   - [worldnews@lemmy.ml](https://programming.dev/c/worldnews@lemmy.ml)
 
