@@ -83,6 +83,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [therightcantmeme@midwest.social](https://programming.dev/c/therightcantmeme@midwest.social)
   - [usa@midwest.social](https://programming.dev/c/usa@midwest.social)
 
+- sh.itjust.works
+  - [ZionistViolenceMonitor@sh.itjust.works](https://programming.dev/c/ZionistViolenceMonitor@sh.itjust.works)
+
 ### NSFW
 
 - ani.social
