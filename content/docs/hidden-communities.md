@@ -119,6 +119,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [hugeboobs@fedinsfw.app](https://programming.dev/c/hugeboobs@fedinsfw.app)
   - [lactation@fedinsfw.app](https://programming.dev/c/lactation@fedinsfw.app)
   - [memes@fedinsfw.app](https://programming.dev/c/memes@fedinsfw.app)
+  - [microblogs@fedinsfw.app](https://programming.dev/c/microblogs@fedinsfw.app)
   - [titties@fedinsfw.app](https://programming.dev/c/titties@fedinsfw.app)
 
 - lemmit.online
