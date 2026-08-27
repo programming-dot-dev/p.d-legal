@@ -26,6 +26,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - forum.wedistribute.org
   - [Fediverse@forum.wedistribute.org](https://programming.dev/c/Fediverse@forum.wedistribute.org)
 
+- sh.itjust.works
+  - [fart@sh.itjust.works](https://programming.dev/c/fart@sh.itjust.works)
+
 ### Political Communities
 
 - 50501.chat
