@@ -351,6 +351,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
 - communick.news
   - [emacs@communick.news](https://programming.dev/c/emacs@communick.news)
 
+- crust.piefed.social
+  - [nintendo_news@crust.piefed.social](https://programming.dev/c/nintendo_news@crust.piefed.social)
+
 - derp.foo
   - [hackernews@derp.foo](https://programming.dev/c/hackernews@derp.foo)
 
