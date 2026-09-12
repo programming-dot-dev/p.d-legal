@@ -76,6 +76,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [politics@lemmy.world](https://programming.dev/c/politics@lemmy.world)
   - [progressivepolitics@lemmy.world](https://programming.dev/c/progressivepolitics@lemmy.world)
   - [toiletpaperusa@lemmy.world](https://programming.dev/c/toiletpaperusa@lemmy.world)
+  - [uspolitics@lemmy.world](https://programming.dev/c/uspolitics@lemmy.world)
 
 - lemmygrad.ml
   - [asklemmygrad@lemmygrad.ml](https://programming.dev/c/asklemmygrad@lemmygrad.ml)
