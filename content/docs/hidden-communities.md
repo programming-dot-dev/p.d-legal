@@ -138,6 +138,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [tiktokthots@lemmit.online](https://programming.dev/c/tiktokthots@lemmit.online)
 
 - lemmy.world
+  - [asklemmynsfw@lemmy.world](https://programming.dev/c/asklemmynsfw@lemmy.world)
   - [bigboobs@lemmy.world](https://programming.dev/c/bigboobs@lemmy.world)
   - [cosplaybabes@lemmy.world](https://programming.dev/c/cosplaybabes@lemmy.world)
   - [fitmoe@lemmy.world](https://programming.dev/c/fitmoe@lemmy.world)
