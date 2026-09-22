@@ -505,6 +505,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [books@metacritics.zone](https://programming.dev/c/books@metacritics.zone)
 
 - news.abolish.capital
+  - [Britain@news.abolish.capital](https://programming.dev/c/Britain@news.abolish.capital)
   - [china@news.abolish.capital](https://programming.dev/c/china@news.abolish.capital)
   - [latam@news.abolish.capital](https://programming.dev/c/latam@news.abolish.capital)
   - [pravda_news@news.abolish.capital](https://programming.dev/c/pravda_news@news.abolish.capital)
