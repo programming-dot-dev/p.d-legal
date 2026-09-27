@@ -127,6 +127,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [microblogs@fedinsfw.app](https://programming.dev/c/microblogs@fedinsfw.app)
   - [porn@fedinsfw.app](https://programming.dev/c/porn@fedinsfw.app)
   - [sensual@fedinsfw.app](https://programming.dev/c/sensual@fedinsfw.app)
+  - [thigh_gap@fedinsfw.app](https://programming.dev/c/thigh_gap@fedinsfw.app)
   - [titties@fedinsfw.app](https://programming.dev/c/titties@fedinsfw.app)
 
 - lemmit.online
