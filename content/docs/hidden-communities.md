@@ -127,6 +127,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [lactation@fedinsfw.app](https://programming.dev/c/lactation@fedinsfw.app)
   - [memes@fedinsfw.app](https://programming.dev/c/memes@fedinsfw.app)
   - [microblogs@fedinsfw.app](https://programming.dev/c/microblogs@fedinsfw.app)
+  - [nsfwcommunitypromo@fedinsfw.app](https://programming.dev/c/nsfwcommunitypromo@fedinsfw.app)
   - [porn@fedinsfw.app](https://programming.dev/c/porn@fedinsfw.app)
   - [sensual@fedinsfw.app](https://programming.dev/c/sensual@fedinsfw.app)
   - [thigh_gap@fedinsfw.app](https://programming.dev/c/thigh_gap@fedinsfw.app)
