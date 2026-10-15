@@ -342,6 +342,9 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [stable_diffusion@nsfwaiclub.com](https://programming.dev/c/stable_diffusion@nsfwaiclub.com)
   - [threesome@nsfwaiclub.com](https://programming.dev/c/threesome@nsfwaiclub.com)
 
+- piefed.world
+  - [nsfwfunny@piefed.world](https://programming.dev/c/nsfwfunny@piefed.world)
+
 - piefed.zip
   - [BigAnimeTiddies@piefed.zip](https://programming.dev/c/BigAnimeTiddies@piefed.zip)
 
