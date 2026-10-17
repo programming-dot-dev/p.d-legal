@@ -51,7 +51,7 @@ In the case of violating the Terms of Service, any of the following or combinati
 
 We may terminate or suspend your access to our services immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms of Service or Code of Conduct.
 
-## 6. Govering Law
+## 6. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.
 
