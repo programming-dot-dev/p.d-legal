@@ -123,6 +123,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [girls_masturbating@fedinsfw.app](https://programming.dev/c/girls_masturbating@fedinsfw.app)
   - [gonewild@fedinsfw.app](https://programming.dev/c/gonewild@fedinsfw.app)
   - [gooned@fedinsfw.app](https://programming.dev/c/gooned@fedinsfw.app)
+  - [hentai@fedinsfw.app](https://programming.dev/c/hentai@fedinsfw.app)
   - [hotinfluencers@fedinsfw.app](https://programming.dev/c/hotinfluencers@fedinsfw.app)
   - [hotwife@fedinsfw.app](https://programming.dev/c/hotwife@fedinsfw.app)
   - [hugeboobs@fedinsfw.app](https://programming.dev/c/hugeboobs@fedinsfw.app)
