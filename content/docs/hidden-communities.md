@@ -155,6 +155,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [nsfw@lemmy.world](https://programming.dev/c/nsfw@lemmy.world)
   - [nsfwcyoa@lemmy.world](https://programming.dev/c/nsfwcyoa@lemmy.world)
   - [thongs@lemmy.world](https://programming.dev/c/thongs@lemmy.world)
+  - [yuri@lemmy.world](https://programming.dev/c/yuri@lemmy.world)
 
 - lemmynsfw.com
   - [aa_cups@lemmynsfw.com](https://programming.dev/c/aa_cups@lemmynsfw.com)
