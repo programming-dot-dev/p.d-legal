@@ -120,6 +120,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [ecchi@fedinsfw.app](https://programming.dev/c/ecchi@fedinsfw.app)
   - [fanmemo@fedinsfw.app](https://programming.dev/c/fanmemo@fedinsfw.app)
   - [Femboys@fedinsfw.app](https://programming.dev/c/Femboys@fedinsfw.app)
+  - [fitgirls@fedinsfw.app](https://programming.dev/c/fitgirls@fedinsfw.app)
   - [girls_masturbating@fedinsfw.app](https://programming.dev/c/girls_masturbating@fedinsfw.app)
   - [gonewild@fedinsfw.app](https://programming.dev/c/gonewild@fedinsfw.app)
   - [gooned@fedinsfw.app](https://programming.dev/c/gooned@fedinsfw.app)
