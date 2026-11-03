@@ -152,6 +152,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [fitmoe@lemmy.world](https://programming.dev/c/fitmoe@lemmy.world)
   - [GirlsDrinkingCoffee@lemmy.world](https://programming.dev/c/GirlsDrinkingCoffee@lemmy.world)
   - [hotindianactresses@lemmy.world](https://programming.dev/c/hotindianactresses@lemmy.world)
+  - [nikke@lemmy.world](https://programming.dev/c/nikke@lemmy.world)
   - [nsfw@lemmy.world](https://programming.dev/c/nsfw@lemmy.world)
   - [nsfwcyoa@lemmy.world](https://programming.dev/c/nsfwcyoa@lemmy.world)
   - [thongs@lemmy.world](https://programming.dev/c/thongs@lemmy.world)
