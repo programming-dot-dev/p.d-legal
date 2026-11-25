@@ -117,6 +117,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [bustypetite@fedinsfw.app](https://programming.dev/c/bustypetite@fedinsfw.app)
   - [couplesgonewild@fedinsfw.app](https://programming.dev/c/couplesgonewild@fedinsfw.app)
   - [cumsluts@fedinsfw.app](https://programming.dev/c/cumsluts@fedinsfw.app)
+  - [cunnilingus@fedinsfw.app](https://programming.dev/c/cunnilingus@fedinsfw.app)
   - [ecchi@fedinsfw.app](https://programming.dev/c/ecchi@fedinsfw.app)
   - [fanmemo@fedinsfw.app](https://programming.dev/c/fanmemo@fedinsfw.app)
   - [Femboys@fedinsfw.app](https://programming.dev/c/Femboys@fedinsfw.app)
