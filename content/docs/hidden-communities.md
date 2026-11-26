@@ -108,6 +108,7 @@ Users can subscribe to a hidden community to remove the hidden effect status of 
   - [thiccmoe@ani.social](https://programming.dev/c/thiccmoe@ani.social)
 
 - fedinsfw.app
+  - [asiansgonewild@fedinsfw.app](https://programming.dev/c/asiansgonewild@fedinsfw.app)
   - [askfedinsfw@fedinsfw.app](https://programming.dev/c/askfedinsfw@fedinsfw.app)
   - [ass@fedinsfw.app](https://programming.dev/c/ass@fedinsfw.app)
   - [bbcparadise@fedinsfw.app](https://programming.dev/c/bbcparadise@fedinsfw.app)
